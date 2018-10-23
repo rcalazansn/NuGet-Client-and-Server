@@ -1,0 +1,11 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\bin\Debug\netcoreapp2.1\nuget_client_core.deps.json
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\bin\Debug\netcoreapp2.1\nuget_client_core.runtimeconfig.json
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\bin\Debug\netcoreapp2.1\nuget_client_core.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\bin\Debug\netcoreapp2.1\nuget_client_core.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\bin\Debug\netcoreapp2.1\nuget_client_core.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\obj\Debug\netcoreapp2.1\nuget_client_core.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\obj\Debug\netcoreapp2.1\nuget_client_core.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\obj\Debug\netcoreapp2.1\nuget_client_core.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\obj\Debug\netcoreapp2.1\nuget_client_core.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\obj\Debug\netcoreapp2.1\nuget_client_core.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\nuget_client_core\nuget_client_core\obj\Debug\netcoreapp2.1\nuget_client_core.pdb

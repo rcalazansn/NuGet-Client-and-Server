@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\bin\Release\netstandard2.0\NuGet.deps.json
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\bin\Release\netstandard2.0\NuGet.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\bin\Release\netstandard2.0\NuGet.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\obj\Release\netstandard2.0\NuGet.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\obj\Release\netstandard2.0\NuGet.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\obj\Release\netstandard2.0\NuGet.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\obj\Release\netstandard2.0\NuGet.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\obj\Release\netstandard2.0\NuGet.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\NuGet\NuGet\obj\Release\netstandard2.0\NuGet.csprojAssemblyReference.cache
